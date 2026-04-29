@@ -1,0 +1,1 @@
+# jma_earthquake_data_solution
